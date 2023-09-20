@@ -17,6 +17,11 @@ body{
 	font-size: 2rem;
 }
 
+.resaltar2{
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"
+	font-size: 3rem;
+}
+
 h1{
 	font-size: 50px;
 	color: black;
