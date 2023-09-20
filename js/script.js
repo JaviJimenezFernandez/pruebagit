@@ -1,2 +1,2 @@
 // JavaScript Document
-alert ("Hola, este sería el sextp Commit, practicando el PUSH para GitHub");
+alert ("Hola, este sería el séptimo Commit, practicando el PULL desde GitHub");
