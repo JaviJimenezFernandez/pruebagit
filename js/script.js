@@ -1,2 +1,5 @@
 // JavaScript Document
-alert ("Hola, este sería el séptimo Commit, practicando el PULL desde GitHub");
+
+function saludo(){
+	alert ("Hola, ahora hacemos un cambio en la rama javascript");
+}
